@@ -1,0 +1,11 @@
+Materials Needed:
+
+1) Arduino Uno Board
+2) L298N Motor Driver Module
+3) 2 x IR Sensors (Line tracking sensors)
+4) 2 x TT gear motors  
+5) 4 x Wheels 
+6) 2 x18650 Batteries 
+7) Battery Holder 
+8) Jumper Wires (Male-to-Male and Male-to-Female)
+9) Wood Sheet (Balsa or plywood) // or chasis
