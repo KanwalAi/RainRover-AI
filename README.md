@@ -96,8 +96,6 @@ The firmware is designed with high **modularity** to ensure maintainability:
 
 ## Group Information 
 
-* 
 **Team Size:** 5 Members.
-* 
 
 **Submitted To:** Ms. Umarah Qaseem / Ms. Mariam bint Imran 
