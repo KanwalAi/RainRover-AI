@@ -12,18 +12,11 @@ RainRover is an integrated Physical AI project featuring a mobile robot base equ
 
 ## ## Core Features
 
-* 
-**Autonomous Navigation:** Uses an IR reflectance sensor array to perform line following via a PID-ready control loop.
+* **Autonomous Navigation:** Uses an IR reflectance sensor array to perform line following via a PID-ready control loop.
 
+* **Intelligent Self-Parking:** Implements an ultrasonic-based distance algorithm to detect parking spaces and execute maneuvering routines.
 
-* 
-**Intelligent Self-Parking:** Implements an ultrasonic-based distance algorithm to detect parking spaces and execute maneuvering routines.
-
-
-* 
-**Weather-Responsive Actuation:** A dedicated raindrop sensor triggers a servo-motor mechanism to automatically open or close the convertible roof based on environmental conditions.
-
-
+* **Weather-Responsive Actuation:** A dedicated raindrop sensor triggers a servo-motor mechanism to automatically open or close the convertible roof based on environmental conditions.
 
 ---
 
@@ -50,8 +43,7 @@ As required by the project guidelines, this system integrates specific hardware 
 
 The firmware is designed with high **modularity** to ensure maintainability:
 
-* 
-`supervisor.ino`: The main state machine handling mode transitions and safety.
+* `supervisor.ino`: The main state machine handling mode transitions and safety.
 
 
 * `line_follow.ino`: Dedicated navigation logic.
@@ -64,25 +56,17 @@ The firmware is designed with high **modularity** to ensure maintainability:
 
 ### Part A: Simulation 
 
-* 
-**Circuit Diagrams:** Comprehensive wiring layouts created in Tinkercad/Wokwi.
+* **Circuit Diagrams:** Comprehensive wiring layouts created in Tinkercad/Wokwi.
 
-
-* 
-**Code Validation:** All software components tested in a simulated environment before hardware deployment.
-
+* **Code Validation:** All software components tested in a simulated environment before hardware deployment.
 
 
 ### Part B: Hardware Integration 
 
-* 
-**Assembly:** Full physical construction of the mobile robot.
+* **Assembly:** Full physical construction of the mobile robot.
 
 
-* 
-**Functional Testing:** Real-world validation of the sensor-to-motor output loop.
-
-
+* **Functional Testing:** Real-world validation of the sensor-to-motor output loop.
 
 ---
 
