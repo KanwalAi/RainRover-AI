@@ -26,16 +26,11 @@ As required by the project guidelines, this system integrates specific hardware 
 
 ### Hardware Components 
 
-* 
-**Microcontroller:** Arduino (UNO/Mega compatible).
-
-
+* **Microcontroller:** Arduino (UNO/Mega compatible).
 * **Drivetrain:** 2× Gearbox DC Motors + L298N/TB6612 Motor Driver.
 * **Sensors:** * 3-5× TCRT5000 IR Line Sensors.
 * HC-SR04 Ultrasonic Sensor (Distance detection).
 * Raindrop Sensor Module (Analog weather detection).
-
-
 * **Actuators:** SG90/MG90S Servo Motor for rooftop mechanics.
 * **Power:** External battery pack with regulated 5V supply for logic.
 
@@ -44,8 +39,6 @@ As required by the project guidelines, this system integrates specific hardware 
 The firmware is designed with high **modularity** to ensure maintainability:
 
 * `supervisor.ino`: The main state machine handling mode transitions and safety.
-
-
 * `line_follow.ino`: Dedicated navigation logic.
 * `autopark.ino`: Precision distance-based parking routine.
 * `roof_control.ino`: Sensor-triggered actuation for the rooftop.
@@ -57,17 +50,13 @@ The firmware is designed with high **modularity** to ensure maintainability:
 ### Part A: Simulation 
 
 * **Circuit Diagrams:** Comprehensive wiring layouts created in Tinkercad/Wokwi.
-
 * **Code Validation:** All software components tested in a simulated environment before hardware deployment.
 
 
 ### Part B: Hardware Integration 
 
 * **Assembly:** Full physical construction of the mobile robot.
-
-
 * **Functional Testing:** Real-world validation of the sensor-to-motor output loop.
-
 ---
 
 ## ## Operation & Calibration
@@ -81,5 +70,4 @@ The firmware is designed with high **modularity** to ensure maintainability:
 ## Group Information 
 
 **Team Size:** 5 Members.
-
 **Submitted To:** Ms. Umarah Qaseem / Ms. Mariam bint Imran 
