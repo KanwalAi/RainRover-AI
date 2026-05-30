@@ -67,6 +67,19 @@ The firmware is designed with high **modularity** to ensure maintainability:
 
 ---
 
+## Recognition
+
+RainRover was presented at the PAI & IDS Robotics Exhibition.
+
+The project received an official participation certificate from ISB FSC in recognition of its demonstration of autonomous navigation, self-parking capabilities, and weather-responsive automation through hardware-software integration.
+
+### Certificate
+
+See:
+- `Certificate/PAI_IDS_Robotics_Exhibition_Certificate.pdf`
+
+---
+
 ## Group Information 
 
 **Team Size:** 5 Members.
