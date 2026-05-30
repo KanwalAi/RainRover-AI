@@ -76,7 +76,7 @@ The project received an official participation certificate from ISB FSC in recog
 ### Certificate
 
 See:
-- [Certificate-pdf](Certificate/PAI_IDS_Robotics_Exhibition_Certificate.pdf)
+- [PAI_IDS_Robotics_Exhibition_Certificate](Certificate/PAI_IDS_Robotics_Exhibition_Certificate.pdf)
 
 ---
 
